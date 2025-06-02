@@ -1,4 +1,4 @@
-def techsharingIsCool():
+def f3():
     return True
 
 def f1():
@@ -7,6 +7,6 @@ def f1():
 def f2():
     return False
 
-if(techsharingIsCool()):
-    print("lol")
+if(f3()):
+    print("true")
 
